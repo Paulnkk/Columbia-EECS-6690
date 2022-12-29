@@ -1,2 +1,2 @@
 # EECS-6690
-Malware detection via Machine Learning 
+Build a malware detection system for Android based applicarions with Machine Learning techniques (Random forest, Extra tree, Ada boost, XG boost, Gradient boost) in Python. 
